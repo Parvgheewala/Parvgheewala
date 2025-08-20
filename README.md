@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently completing Btech from VIT<br><br>💬 Ask me about react, node , next, express<br><br>📫 How to reach me gheewalaparv@gmail.com<br><br>⚡ Fun fact I can learn and adapt to any technology in given time
+🌱 I’m currently completing Btech from VIT<br><br>💬 enthusiast about the development and quite the quick learner. I live to explore and love to adapt. <br><br>📫 How to reach me gheewalaparv@gmail.com<br><br>⚡ Fun fact I can learn and adapt to any technology in given time
 
 
 ## 🌐 Socials:
